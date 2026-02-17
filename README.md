@@ -44,10 +44,8 @@
 ---
 
 ## 📊 GitHub Stats
-## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AsifJawad15&show_icons=true&rank_icon=github&cache_seconds=86400)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AsifJawad15&show_icons=true&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsifJawad15&layout=compact)
 
 
 ---
