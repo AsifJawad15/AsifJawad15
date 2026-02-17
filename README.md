@@ -5,7 +5,7 @@
 - 🔭 Currently working on: KUET CSE Automation (Web + Mobile)
 - 🌱 Learning: iOS development, system design, clean architecture
 - 💬 Ask me about: SwiftUI, Flutter, Supabase, REST APIs
-- 📫 Contact: your-email@gmail.com | LinkedIn: your-link
+- 📫 Contact: asifjawadaj15@gmail.com | LinkedIn: https://www.linkedin.com/in/asif-jawad-592461355/
 
 ---
 
@@ -38,12 +38,17 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AsifJawad15&show_icons=true)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AsifJawad15&show_icons=true&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsifJawad15&layout=compact)
+
 
 ---
 
