@@ -111,7 +111,7 @@
 
 <div align="center">
 
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AsifJawad15&theme=tokyonight&hide_border=true&background=0d1117&stroke=38bcad&ring=1f6feb&fire=ff9900&currStreakLabel=38bcad&sideLabels=38bcad&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsifJawad15&theme=tokyonight&hide_border=true&background=0d1117&stroke=38bcad&ring=1f6feb&fire=ff9900&currStreakLabel=38bcad&sideLabels=38bcad&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="GitHub Streak" />
 
 </div>
 
