@@ -1,181 +1,157 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Asif%20Jawad&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Software%20%26%20Systems%20Engineer%20%7C%20AI%20%7C%20Security%20%7C%20Networks%20%7C%20Visual%20Computing&descAlignY=58&descSize=15" alt="Asif Jawad — Software and Systems Engineer"/>
-
-<div align="center">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BCAD&center=true&vCenter=true&random=false&width=760&lines=Building+software+and+systems;Backend+%2F+Algorithms+%2F+Data;AI+%2F+NLP+%2F+Visual+Computing;Security+%2F+Networks+%2F+IoT;Web+%2F+Android+%2F+iOS" alt="Engineering focus" />
+<a href="https://asifjawad.vercel.app/">
+  <img width="100%" src="./assets/banner.svg" alt="Asif Jawad. Welcome to my Arena. Software and systems engineer, CSE at KUET." />
 </a>
 
-<br/>
+<div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://asifjawad.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asif-jawad-592461355)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asifjawadaj15@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AsifJawad15)
+<img alt="Building software and systems. Graphics, AI, security, networks. Algorithms, numerical methods, data. Web, Android, iOS, IoT." src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1100&color=8B949E&center=true&vCenter=true&width=760&lines=Building+software+and+systems;Graphics+%2F+AI+%2F+Security+%2F+Networks;Algorithms+%2F+Numerical+methods+%2F+Data;Web+%2F+Android+%2F+iOS+%2F+IoT" />
 
-<br/>
+[![Portfolio](https://img.shields.io/badge/Enter_the_Arena-070707?style=for-the-badge&logo=vercel&logoColor=white)](https://asifjawad.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-070707?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asif-jawad-592461355)
+[![Email](https://img.shields.io/badge/Email-070707?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asifjawadaj15@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-070707?style=for-the-badge&logo=readdotcv&logoColor=white)](https://asifjawad.vercel.app/resume.pdf)
 
-<img src="https://komarev.com/ghpvc/?username=AsifJawad15&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=AsifJawad15&label=profile%20views&color=070707&style=flat-square" alt="Profile views" />
 
 </div>
 
----
+## `0x00` whoami
 
-## About Me
+```bash
+$ whoami --verbose
+name      : Asif Jawad
+role      : software & systems engineer
+study     : B.Sc. Computer Science & Engineering, KUET (2023 – present)
+based     : Khulna, Bangladesh
+builds    : web · android · ios · backend · data · iot
+explores  : graphics · ai · security · networks · numerical methods
+status    : open to internships, research and engineering work
 
-> **Software & Systems Engineer — working across AI, security, networking and visual computing.**
+$ cat philosophy.txt
+I like the point where software, data and hardware meet,
+and I keep going until the thing actually runs.
+```
 
-- CSE student at **Khulna University of Engineering & Technology (KUET)**
-- Building end-to-end systems across **web, Android, iOS, backend, data and IoT**
-- Exploring **machine learning, NLP, computer vision, OpenGL and intelligent algorithms**
-- Interested in **secure systems, computer networks, realtime platforms and optimization**
-- Open to engineering collaborations and open-source work
-- Based in **Khulna, Bangladesh**
+## `0x01` The Arena
 
----
+> Six fields, each with the labs and repositories behind them. On the [portfolio](https://asifjawad.vercel.app/) every field is a live drawing you can step into.
 
-## Quick Stats
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Networks & security** &nbsp;`routing` `queues`
+
+- [Computer networks](https://github.com/AsifJawad15/Computer_Network): VLSM, DHCP, DNS, RIP, OSPF, VLANs, NAT/PAT, GRE over IPsec
+- [DoS and DDoS simulation](https://github.com/AsifJawad15/Security-Controlled-DoS-and-DDos-Simulation): load shedding on localhost, who gets served when the queue is full
+
+</td>
+<td width="50%" valign="top">
+
+**Data structures & algorithms** &nbsp;`O(n log n)`
+
+- [DSA in C++](https://github.com/AsifJawad15/DSA): five sorts, Dijkstra, Bellman-Ford, negative cycles
+- [Compiler](https://github.com/AsifJawad15/CSE3212-Compiler_Project): Flex, Bison, three-address code, constant folding
+- [Hex Siege Arena](https://github.com/AsifJawad15/HexSiegeArena-AI_Game): Minimax, Alpha-Beta, Monte Carlo tree search
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**Numerical methods** &nbsp;`f(x) → 0`
+
+- [Numerical analysis in C++](https://github.com/AsifJawad15/Neumerical-Analysis): bisection, false position, Newton-Raphson, secant
+- Jacobi, Gauss-Seidel, Gauss-Jordan, LU factorisation
+- Least squares fitting, Newton interpolation, Simpson's rules, Runge-Kutta 4
+
+</td>
+<td valign="top">
+
+**Intelligence** &nbsp;`train → test`
+
+- [Smart FAQ retrieval](https://github.com/AsifJawad15/NLP-Based-Smart-FAQ-Retrieval): TF-IDF, Word2Vec from scratch, Sentence-BERT on 215 KUET FAQs
+- [Bee colony vs genetic algorithm](https://github.com/AsifJawad15/ML_Meta_Heurestic): meta-heuristics on the Ackley function
+- [What shapes student CGPA?](https://github.com/AsifJawad15/Student-Performance-analysis-dataset): 1,108 survey responses, four universities
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**Graphics & vision** &nbsp;`light → pixels`
+
+- [3D Smart City](https://github.com/AsifJawad15/Interactive-3D-Traffic-Intersection-Road-Simulator): C++ and OpenGL, shadows, rain, ray-marched reflections
+- [Reverse ray tracing](https://github.com/AsifJawad15/Reverse_Ray_Tracing): light first, then the eye
+- [Image processing](https://github.com/AsifJawad15/Image_Processing): 21 filters and convolutions written from scratch
+
+</td>
+<td valign="top">
+
+**Systems & robotics** &nbsp;`logic → motors`
+
+- [CPU architecture](https://github.com/AsifJawad15/CPU_architecture): a mini CPU with a custom ALU in Logisim
+- [Smart door lock](https://github.com/AsifJawad15/smart_door_lock): ESP32, RFID and an expiring one-time PIN
+- [IoT WareFlow](https://github.com/SheikhGalib/iot-wareflow): a robot car that carries and scans inventory (team)
+
+</td>
+</tr>
+</table>
+
+## `0x02` Selected work
+
+| | System | What it does | Built with |
+|:--:|:--|:--|:--|
+| `01` | **[3D Smart City](https://asifjawad.vercel.app/work/smart-city)** | City simulator: signals, traffic, people, day and night, rain, 72 FPS | C++ · OpenGL · GLSL |
+| `02` | **[NagarShield 360](https://asifjawad.vercel.app/work/nagarshield-360)** | City operations prototype where a report only counts as solved after proof is checked | Flutter · Next.js · Supabase |
+| `03` | **[Taka](https://asifjawad.vercel.app/work/taka)** | Mobile wallet on a double-entry ledger: a retry or double tap never pays twice | FastAPI · PostgreSQL · RabbitMQ · React |
+| `04` | **Dept Flow** ([web](https://github.com/AsifJawad15/KUET-CSE-Automation-Web-Portal), [app](https://github.com/AsifJawad15/KUET-CSE-Automation-Mobile--App)) | KUET CSE automation: schedules, geo-attendance, notices and TV displays from one database | Next.js · Flutter · Supabase · FCM |
+| `05` | **[Aegis Grid](https://github.com/AsifJawad15/pstu_hackathon)** | Emergency response backend that assigns units and re-plans when roads close | Node.js · PostGIS · Kafka · Docker |
+| `06` | **[FitTrack](https://github.com/AsifJawad15/FitTrack)** | Local-first Android fitness tracker with Health Connect | Kotlin · Jetpack Compose · Room |
+| `07` | **[ELORA](https://github.com/AsifJawad15/ELORA-ContextAwareE-CommercePlatform)** | iOS store with location-aware checkout and multi-currency prices | SwiftUI · Firebase · MapKit |
+
+<sub>NagarShield 360, Taka and Dept Flow are built with Abdullah Md. Shahporan.</sub>
+
+## `0x03` Stack
 
 <div align="center">
 
-| GitHub Repositories | Projects Built | Technologies |
-|:---:|:---:|:---:|
-| **40+** | **30+** | **25+** |
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,py,dart,php,swift,kotlin&theme=dark" alt="Languages: C, C++, Java, JavaScript, TypeScript, Python, Dart, PHP, Swift, Kotlin" /><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,laravel,flutter,tailwind,godot&theme=dark" alt="Frameworks: React, Next.js, Node.js, Express, FastAPI, Laravel, Flutter, Tailwind CSS, Godot" /><br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,firebase,kafka,rabbitmq,docker,linux,git&theme=dark" alt="Data and systems: PostgreSQL, MySQL, Supabase, Firebase, Kafka, RabbitMQ, Docker, Linux, Git" /><br/>
+<img src="https://skillicons.dev/icons?i=opencv,sklearn,arduino,figma,postman,androidstudio,vscode&theme=dark" alt="Tools: OpenCV, scikit-learn, Arduino, Figma, Postman, Android Studio, VS Code" />
+
+<sub>also: OpenGL · GLSL · NumPy · Jupyter · WEKA · Cisco Packet Tracer · ESP32 · Logisim · Flex & Bison</sub>
 
 </div>
 
----
+## `0x04` Log
 
-## Tech Stack & Tools
+```diff
++ 2026  PSTU IT Carnival hackathon        built Taka, a wallet on a double-entry ledger
++ 2025  Google UX Design Foundations      certificate
++ 2024  Google Foundations of Cybersecurity  certificate
++ 2024  IBM Data Analysis with Python     certificate
++ 2023  Intra KUET Programming Contest    competitive programming
+! now   research paper in preparation      details stay private until publication
+```
 
-<div align="center">
-
-### Languages
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
-
-### Software, Backend & Mobile
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot_4-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-111111?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### Data, Cloud & Messaging
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Room](https://img.shields.io/badge/Room-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-
-### AI, Algorithms & Visual Computing
-
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-![Natural Language Processing](https://img.shields.io/badge/NLP-4B0082?style=for-the-badge)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Image Processing](https://img.shields.io/badge/Image_Processing-222222?style=for-the-badge&logo=opencv&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
-![3D Graphics](https://img.shields.io/badge/3D_Graphics-333333?style=for-the-badge)
-![Minimax](https://img.shields.io/badge/Minimax-111111?style=for-the-badge)
-![MCTS](https://img.shields.io/badge/MCTS-111111?style=for-the-badge)
-
-### Security, Networks & Embedded Systems
-
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
-![Authentication](https://img.shields.io/badge/Authentication-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
-![Computer Networks](https://img.shields.io/badge/Computer_Networks-00629B?style=for-the-badge)
-![Realtime Systems](https://img.shields.io/badge/Realtime_Systems-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![RFID](https://img.shields.io/badge/RFID-00599C?style=for-the-badge)
-
-### Engineering Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-
-</div>
-
----
-
-## Selected Engineering Work
-
-| DEPT FLOW | ELORA |
-|:---|:---|
-| Unified department automation across a Next.js portal, Flutter mobile app, Supabase backend, notifications and TV displays. | Context-aware SwiftUI commerce platform with Firebase, MapKit, multi-currency checkout and admin workflows. |
-| `NEXT.JS` `FLUTTER` `SUPABASE` `FCM` | `SWIFTUI` `FIREBASE` `MAPKIT` `IOS` |
-| [Web source](https://github.com/AsifJawad15/KUET-CSE-Automation-Web-Portal) · [Mobile source](https://github.com/AsifJawad15/KUET-CSE-Automation-Mobile--App) | [View repository](https://github.com/AsifJawad15/ELORA-ContextAwareE-CommercePlatform) |
-
-| AEGIS GRID | Smart Door Lock |
-|:---|:---|
-| Emergency-response backend focused on conflict-safe resource allocation, geospatial data, messaging and containerized delivery. | ESP32 access-control system combining RFID entry, expiring PIN fallback, keypad, display and Next.js verification APIs. |
-| `NODE.JS` `POSTGIS` `KAFKA` `DOCKER` | `ESP32` `RFID` `NEXT.JS` `IOT` |
-| [View repository](https://github.com/AsifJawad15/pstu_hackathon) | [View repository](https://github.com/AsifJawad15/smart_door_lock) |
-
-| FitTrack | Hex Siege Arena |
-|:---|:---|
-| Local-first native Android fitness system with Kotlin, Jetpack Compose, Room and Health Connect. | Hex-grid tactical AI game using Minimax, Alpha-Beta pruning, MCTS and a Godot 4 rebuild. |
-| `KOTLIN` `JETPACK COMPOSE` `ROOM` `HEALTH CONNECT` | `GODOT 4` `GDSCRIPT` `MINIMAX` `MCTS` |
-| [View repository](https://github.com/AsifJawad15/FitTrack) | [View repository](https://github.com/AsifJawad15/HexSiegeArena-AI_Game) |
-
----
-
-## Contribution Snake
+## `0x05` Commit graph
 
 <div align="center">
-
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AsifJawad15/AsifJawad15/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AsifJawad15/AsifJawad15/output/github-contribution-grid-snake.svg"/>
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/AsifJawad15/AsifJawad15/output/github-contribution-grid-snake.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AsifJawad15/AsifJawad15/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AsifJawad15/AsifJawad15/output/github-contribution-grid-snake.svg" />
+    <img alt="A snake eating the contribution graph" src="https://raw.githubusercontent.com/AsifJawad15/AsifJawad15/output/github-contribution-grid-snake.svg" />
   </picture>
-
 </div>
 
----
-
-## Let's Connect
+## `0xFF` Connect
 
 <div align="center">
 
-I am open to collaborating on practical software, intelligent systems and open-source engineering.
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://asifjawad.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asif-jawad-592461355)
-[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asifjawadaj15@gmail.com)
+Have a system worth building? &nbsp;[asifjawadaj15@gmail.com](mailto:asifjawadaj15@gmail.com) · [LinkedIn](https://linkedin.com/in/asif-jawad-592461355) · [asifjawad.vercel.app](https://asifjawad.vercel.app/)
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" alt="footer"/>
+<img width="100%" src="./assets/footer.svg" alt="Newton-Raphson tangents closing in on a root." />
