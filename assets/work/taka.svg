@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360" role="img" aria-label="Taka: the same transfer is sent twice with one idempotency key, and the ledger posts it once.">
+<style>
+  .sans { font-family: 'Arial Black', 'Helvetica Neue', Arial, sans-serif; font-weight: 900; }
+  .mono { font-family: ui-monospace, Consolas, 'Liberation Mono', monospace; }
+  .tap { animation: tap 6s infinite; transform-box: fill-box; transform-origin: center; }
+  .tap2 { animation-delay: .6s; }
+  @keyframes tap { 0%, 8%, 100% { transform: scale(1) } 4% { transform: scale(.94) } }
+  .row1 { animation: show 6s infinite; }
+  @keyframes show { 0%, 12% { opacity: 0 } 16%, 92% { opacity: 1 } 100% { opacity: 0 } }
+  .dup { animation: dup 6s infinite; }
+  @keyframes dup { 0%, 22% { opacity: 0 } 26%, 92% { opacity: 1 } 100% { opacity: 0 } }
+  @media (prefers-reduced-motion: reduce) { .tap, .row1, .dup { animation: none } }
+</style>
+<rect width="640" height="360" fill="#f2f1ec"/>
+<g class="tap"><rect x="40" y="40" width="250" height="64" fill="#070707"/><text class="sans" x="165" y="81" font-size="22" fill="#f2f1ec" text-anchor="middle">Send ৳2,500</text></g>
+<text class="mono" x="40" y="128" font-size="13" fill="#070707">idempotency-key: 7f3a…c21</text>
+<g class="tap tap2"><rect x="350" y="40" width="250" height="64" fill="none" stroke="#070707" stroke-width="2"/><text class="sans" x="475" y="81" font-size="22" fill="#070707" text-anchor="middle">Send again</text></g>
+<text class="mono" x="350" y="128" font-size="13" fill="#070707">same key, retried</text>
+<path d="M40 170 H600" stroke="#070707"/>
+<g class="mono" font-size="14" fill="#070707">
+  <text x="40" y="196">account</text><text x="360" y="196">debit</text><text x="500" y="196">credit</text>
+  <g class="row1">
+    <text x="40" y="232">wallet:asif</text><text x="360" y="232">2,500</text>
+    <text x="40" y="262">wallet:receiver</text><text x="500" y="262">2,500</text>
+  </g>
+  <g class="dup"><rect x="36" y="282" width="568" height="34" fill="#070707"/><text x="48" y="304" fill="#f2f1ec">duplicate key → returned the first result, nothing posted twice</text></g>
+</g>
+<path d="M40 340 H600" stroke="#070707" stroke-dasharray="2 5"/>
+</svg>
